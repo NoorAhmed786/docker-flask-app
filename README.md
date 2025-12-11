@@ -2,6 +2,17 @@
 
 This repository contains a simple Flask application containerized using Docker. The app is designed to demonstrate the process of setting up, building, and running a Flask application inside a Docker container.
 
+
+
+## Screenshots
+
+### Docker Build Process
+![Docker Build Process](Screanshots/ss2.png)
+
+### Application Running in Docker
+![Application Running](assets/screenshots/ss1.png)
+
+
 ## Project Structure
 
 docker-flask-app/
