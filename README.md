@@ -10,7 +10,7 @@ This repository contains a simple Flask application containerized using Docker. 
 ![Docker Build Process](Screanshots/ss2.png)
 
 ### Application Running in Docker
-![Application Running](assets/screenshots/ss1.png)
+![Application Running](Screanshots/ss1.png)
 
 
 ## Project Structure
